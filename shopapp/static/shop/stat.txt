@@ -1,0 +1,1 @@
+this is txt file it is inside the static\shop\ and we can access it in html file {% load static %} and where we give this file we give full path like static shop\stat.txt
